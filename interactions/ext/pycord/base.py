@@ -12,7 +12,7 @@ version = ext.Version(
 )
 
 base = ext.Base(
-    name="interactions-attrs",
+    name="interactions-pycord",
     version=version,
     link="https://github.com/interactions-py/pycord",
     description="An extension library for interactions.py to bridge with Pycord.",
